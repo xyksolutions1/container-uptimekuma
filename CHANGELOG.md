@@ -1,3 +1,9 @@
+## 2.0.3 2026-05-02 <code at nfrastack dot com>
+
+   ### Added
+      - Uptime Kuma 2.3.0
+
+
 ## 2.0.2 2026-03-09 <code at nfastack dot com>
 
    ### Added
